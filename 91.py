@@ -38,7 +38,7 @@ def enter(**kwargs):
             print(threading.current_thread().name, " visiting page ", page, " occurs some errors ", RuntimeError.__with_traceback__)
             redisutil.add(url, "91_error")
             continue
-    with open("e:/test.log", "a") as f:
+    with open("test.log", "a") as f:
     	f.write(threading.current_thread().name + " over \n")
 
 if __name__ == "__main__": 
