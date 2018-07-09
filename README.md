@@ -15,6 +15,10 @@ https://www.234du.com/1176.html
 python 3.x安装
 https://www.234du.com/1175.html
 
+导出redis数据
+https://www.234du.com/1174.html
+
+
 # 安装redis server 并运行
 
 Windows下搭建Redis服务器 https://www.234du.com/1173.html
