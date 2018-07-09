@@ -25,6 +25,7 @@ Windows下搭建Redis服务器 https://www.234du.com/1173.html
 
 
 1）运行91.py，可以等到爬完再运行parse_91.py
+
 2）可以同时运行91.py, parse_91.py
 # 忠告
 # 珍爱身体， 奉献祖国
