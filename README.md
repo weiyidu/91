@@ -9,17 +9,18 @@
 - pyquery
 - wheel
 
-Python3.4安装lxml、selenium、pyquery
-https://blog.csdn.net/changqing5818/article/details/53401808
+Python3.x安装lxml、selenium、pyquery
+https://www.234du.com/1176.html
 
-python pip使用国内镜像
-https://www.cnblogs.com/wqpkita/p/7248525.html
+python 3.x安装
+https://www.234du.com/1175.html
 
 # 安装redis server 并运行
 
-Windows下搭建Redis服务器 https://blog.csdn.net/e62ces0iem/article/details/73477182
+Windows下搭建Redis服务器 https://www.234du.com/1173.html
 
-运行91.py
 
+1）运行91.py，可以等到爬完再运行parse_91.py
+2）可以同时运行91.py, parse_91.py
 # 忠告
 # 珍爱身体， 奉献祖国
